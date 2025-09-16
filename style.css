@@ -1,5 +1,5 @@
 :root {
-  --colour1:#8f00ff; --gold:#f2a900; --colour2:#4f7942;
+  --colour1:#8f00ff; --gold:#f2a900; --colour2:#4f7942; <!-- Looks BAD -->
 }
 body { font-family: system-ui, sans-serif; margin:0; background:var(--colour2); color:#fff; }
 header { background:var(--colour1); color:#fff; padding:1rem; }
